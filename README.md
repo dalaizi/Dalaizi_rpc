@@ -14,7 +14,6 @@
 - 基于**ZooKeeper**实现服务注册中心，提供客户端服务发现功能、服务节点监听以及动态管理功能；
 - 实现基于注解的零配置框架。
 
-![Markdown](README/PZK3SP.png)
 
 # Quick Start
 ### 服务端开发
